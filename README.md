@@ -1,6 +1,8 @@
 bean-extract
 ============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jwalton/baen-extract.svg)](https://greenkeeper.io/)
+
 What is it?
 -----------
 
